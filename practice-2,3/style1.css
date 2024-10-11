@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Таблица */
+
+table{
+    padding: 50px;
+}
+
+.table__search-wrapper{
+    text-align: center;
+}
+
+.table__search{
+    margin: 0 auto;
+    padding: 0;
+    width: 400px;
+    height: 50px;
+}
+
+.table__header-el{
+    cursor: pointer;
+}
+
+button[type="button"].btn{
+    margin: 50px auto;
+    cursor: pointer;
+    border: 1px solid #0848C0;
+    border-radius: 5px;
+
+}
